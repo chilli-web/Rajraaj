@@ -1,5 +1,5 @@
 (this["webpackJsonpreact-chat"]=this["webpackJsonpreact-chat"]||[]).push([[0],{16:function(e,t,a){e.exports=a(30)},21:function(e,t,a){},23:function(e,t,a){},30:function(e,t,a){"use strict";a.r(t);var n=a(1),r=a.n(n),c=a(11),o=a.n(c),i=(a(21),a(9)),l=a.n(i),s=a(12),u=a(7),m=(a(23),a(5)),p=a.n(m),d=(a(24),a(28),a(31),a(14)),h=a(15);p.a.initializeApp({apiKey: "AIzaSyDyMUaND57ZIlLsF77NHQdflCA7Iatyy9k",
-    authDomain: "roomchat1-636d5.firebaseapp.com",
+    authDomain: "",
     databaseURL: "https://roomchat1-636d5-default-rtdb.firebaseio.com",
     projectId: "roomchat1-636d5",
     storageBucket: "roomchat1-636d5.appspot.com",
